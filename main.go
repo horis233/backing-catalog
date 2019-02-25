@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/cloudfoundry-community/go-cfenv"
-	"github.com/cloudnativego/backing-catalog/service"
+	"github.com/horis233/backing-catalog/service"
 )
 
 func main() {
